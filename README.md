@@ -52,7 +52,7 @@ Heart_Disease-Predictor/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Ashanshgupt/Heart_Disease-Predictor.git
+git clone https://github.com/Akshanshgupt/Heart_Disease-Predictor.git
 cd Heart_Disease-Predictor
 ```
 
