@@ -95,7 +95,7 @@ streamlit run app.py
 
 ## ⚠️ Disclaimer
 
-This project is for **educational purposes only** and should **not be used as a medical diagnosis tool**.
+This project is for **educational purposes only** and should **not be used as a medical diagnosis tool**...
 
 ---
 
