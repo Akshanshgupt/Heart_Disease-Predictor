@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction App
+# ❤️ Heart Disease Prediction App....
 
 A **Machine Learning–based Heart Disease Prediction web application** built using **Python** and **Streamlit**. This app takes medical parameters as input and predicts whether a person has a **high or low risk of heart disease** using a trained **K-Nearest Neighbors (KNN)** model.
 
